@@ -1,4 +1,4 @@
 # UPDATE:
-Portfolio website will be going public Wednesday June 20th.
+Portfolio website to go public soon...
 ### Technologies used:
 React.JS
